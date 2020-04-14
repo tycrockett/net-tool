@@ -1,0 +1,10 @@
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\bin\Debug\NetTool.exe.config
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.Form1.resources
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.Properties.Resources.resources
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.csproj.GenerateResource.Cache
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\bin\Debug\NetTool.exe
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\bin\Debug\NetTool.pdb
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.exe
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.pdb
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.csprojResolveAssemblyReference.cache
+C:\Users\tycro\Desktop\NetTool\NetTool\NetTool\obj\Debug\NetTool.Tools.resources
